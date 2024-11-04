@@ -1,4 +1,4 @@
-# Here are the proyects for the python 101 for cybersecurity course 
+# Here are the proyects for the python 101 for cybersecurity course from TCM-SEC Academy
 
 1. This script is a **brute-force script** that attempts to log in to an SSH server using a list of passwords.
   ﻿﻿﻿A running SSH service you are authorised to test (such as on your localhost) is required to test this script.
