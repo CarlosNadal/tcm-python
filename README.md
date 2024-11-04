@@ -1,6 +1,6 @@
 # Here are the proyects for the python 101 for cybersecurity course from TCM-SEC Academy
 
-### "Remember, the difference between script kiddies and professional hackers is that the former uses other people’s tools." -Charlie Miller
+### "Remember, the difference between script kiddies and professional hackers is that the former uses other people’s tools." - Charlie Miller
 
  
 1. This script is a **brute-force script** that attempts to log in to an SSH server using a list of passwords.
